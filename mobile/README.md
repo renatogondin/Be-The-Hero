@@ -6,11 +6,7 @@
   <img alt="mobile" src="../.github/Mobile.gif" width="250px">
 </p>
 
-<p align="center">
- 
-<p align="center">
-  <img alt="mobile" src="../.github/Mobile.gif" width="250px">
-</p>
+
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
@@ -58,4 +54,4 @@ This project is under the MIT license. See the [LICENSE](LICENSE.md) for details
 
 ---
 
-Made with ♥ by Renato Gondin :wave: [Get in touch!]
+Made with ♥ by Renato:wave: [Get in touch!](
