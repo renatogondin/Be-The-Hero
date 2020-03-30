@@ -8,7 +8,9 @@
 
 <p align="center">
  
-
+<p align="center">
+  <img alt="mobile" src="../.github/Mobile.gif" width="250px">
+</p>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
