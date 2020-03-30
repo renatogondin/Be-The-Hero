@@ -7,21 +7,8 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DanielObara/SemanaOmnistack11?color=%2304D361">
+ 
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/DanielObara/SemanaOmnistack11">
-	
-  <a href="https://www.linkedin.com/in/danielobara/">
-    <img alt="Made by DanielObara" src="https://img.shields.io/badge/made%20by-DanielObara-%2304D361">
-  </a>
-
-  <a href="https://github.com/DanielObara/SemanaOmnistack11/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/DanielObara/SemanaOmnistack11">
-  </a>
-
-  <a href="https://github.com/DanielObara/SemanaOmnistack11/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/DanielObara/SemanaOmnistack11">
-  </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
@@ -69,4 +56,4 @@ This project is under the MIT license. See the [LICENSE](LICENSE.md) for details
 
 ---
 
-Made with ♥ by Daniel Obara :wave: [Get in touch!](https://www.linkedin.com/in/danielobara/)
+Made with ♥ by Renato Gondin :wave: [Get in touch!]
