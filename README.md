@@ -12,13 +12,16 @@ Meanwhile, users will be able to check the mobile app and connect the ONGs.
 
 Be The Hero is a project that aims to connect people who are willing to help ONGs.
 
+<caption>Mobile will look like</caption>
 <h1 align="center">
     <img alt="Login-Page" title="Login-Page" src="https://github.com/renatogondin/Be-The-Hero/blob/master/Mobile.gif" width="500px" />
 </h1>
 
-<p align="center">
-  <img alt="mobile" src="../.github/Mobile.gif" width="250px">
-</p>
+## 🔖 Layout
+<caption> The webApp Layout</caption>
+Para acessar o layout utilize a ferramenta [Figma](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1).
+
+
 
 ## :rocket: Technologies
 
